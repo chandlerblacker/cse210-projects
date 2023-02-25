@@ -1,0 +1,15 @@
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prove\Develop04\bin\Debug\net7.0\Develop04.exe
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prove\Develop04\bin\Debug\net7.0\Develop04.deps.json
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prove\Develop04\bin\Debug\net7.0\Develop04.runtimeconfig.json
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prove\Develop04\bin\Debug\net7.0\Develop04.dll
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prove\Develop04\bin\Debug\net7.0\Develop04.pdb
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prove\Develop04\obj\Debug\net7.0\Develop04.csproj.AssemblyReference.cache
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prove\Develop04\obj\Debug\net7.0\Develop04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prove\Develop04\obj\Debug\net7.0\Develop04.AssemblyInfoInputs.cache
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prove\Develop04\obj\Debug\net7.0\Develop04.AssemblyInfo.cs
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prove\Develop04\obj\Debug\net7.0\Develop04.csproj.CoreCompileInputs.cache
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prove\Develop04\obj\Debug\net7.0\Develop04.dll
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prove\Develop04\obj\Debug\net7.0\refint\Develop04.dll
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prove\Develop04\obj\Debug\net7.0\Develop04.pdb
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prove\Develop04\obj\Debug\net7.0\Develop04.genruntimeconfig.cache
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prove\Develop04\obj\Debug\net7.0\ref\Develop04.dll
