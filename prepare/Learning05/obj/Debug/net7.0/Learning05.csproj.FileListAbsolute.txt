@@ -1,0 +1,15 @@
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prepare\Learning05\bin\Debug\net7.0\Learning05.exe
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prepare\Learning05\bin\Debug\net7.0\Learning05.deps.json
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prepare\Learning05\bin\Debug\net7.0\Learning05.runtimeconfig.json
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prepare\Learning05\bin\Debug\net7.0\Learning05.dll
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prepare\Learning05\bin\Debug\net7.0\Learning05.pdb
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prepare\Learning05\obj\Debug\net7.0\Learning05.csproj.AssemblyReference.cache
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prepare\Learning05\obj\Debug\net7.0\Learning05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prepare\Learning05\obj\Debug\net7.0\Learning05.AssemblyInfoInputs.cache
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prepare\Learning05\obj\Debug\net7.0\Learning05.AssemblyInfo.cs
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prepare\Learning05\obj\Debug\net7.0\Learning05.csproj.CoreCompileInputs.cache
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prepare\Learning05\obj\Debug\net7.0\Learning05.dll
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prepare\Learning05\obj\Debug\net7.0\refint\Learning05.dll
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prepare\Learning05\obj\Debug\net7.0\Learning05.pdb
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prepare\Learning05\obj\Debug\net7.0\Learning05.genruntimeconfig.cache
+C:\Users\chand\Documents\Programming with Classes\cse210-projects\prepare\Learning05\obj\Debug\net7.0\ref\Learning05.dll
